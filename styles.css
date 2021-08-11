@@ -1,0 +1,62 @@
+*{
+    color: white;
+}
+
+body{
+    background-image: url(https://images.wallpaperscraft.com/image/background_dark_blurred_87441_1920x1080.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+header{
+    font-family: Georgia;
+    display: flex;
+    background-color: black;
+
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 20px;
+    font-size: 20px;
+}
+
+li{
+    margin: 10px;
+}
+
+button{
+    height: 50px;
+    width: 135px;
+    border-radius: 20px;
+    color: black;
+}
+
+footer{
+    
+    background: rgba(255, 255,255, 0.5);
+    box-shadow: 0 8px 32px 0 rgba(32,38,135,0.37);
+    border-radius: 30px;
+}
+
+
+.container{
+    display: flex;
+}
+
+h3{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.fooasd{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)), url('https://www.pelis24tv.co/wp-content/uploads/2020/02/la-cosa-del-otro-mundo-11222-poster.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    f
+}
